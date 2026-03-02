@@ -1,4 +1,4 @@
-#shahoneyyy
+#shahhoneyyy
 # Hi, I'm Honey Shah — Data Analyst | Business Intelligence Analyst| SQL Developer
 
 I build data analytics solutions that transform complex operational data into clear business decisions. My work focuses on automation, forecasting, and performance analytics using SQL, Python, and Power BI to reduce manual reporting and improve operational efficiency.
